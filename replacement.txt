@@ -1,0 +1,12 @@
+#4DC7A0   #3C3C3D
+
+#D6D6D6   #9E1C20
+
+#869791   #C36F71
+
+BLUE #0000ee   
+
+PALE GREEN #64a49c
+
+darkmeroon 03201F    580608
+
